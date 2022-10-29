@@ -1,0 +1,17 @@
+.readMore {
+    font-weight: 700;
+    color: #232222;
+    white-space: nowrap;
+}
+
+.news {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.news img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+}

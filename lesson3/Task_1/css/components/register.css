@@ -1,0 +1,13 @@
+.register-button {
+    color: #fff;
+    border: 0;
+    background-color: #006501;
+    padding: 13px 23px;
+    border-radius: 6px;
+}
+
+.new-account {
+    margin-top: 26px;
+    font-size: 15px;
+    white-space: nowrap;
+}

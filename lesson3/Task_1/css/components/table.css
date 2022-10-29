@@ -1,0 +1,32 @@
+th, td {
+    border: 3px solid #fff;
+    padding: 5px;
+    white-space: nowrap;
+}
+
+tr {
+    font-size: 18px;
+}
+
+thead {
+    background-color: #000;
+}
+
+th {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+tr:first-child {
+    background-color: #006501;
+    color: #fff;
+}
+
+tr:nth-child(2), tr:nth-child(3), tr:nth-child(4) {
+    background-color: #6dee85;
+}
+
+tr:nth-child(18), tr:nth-child(19), tr:nth-child(20) {
+    background-color: #e9aec7;
+}

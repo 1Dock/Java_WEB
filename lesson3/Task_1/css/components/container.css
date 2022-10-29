@@ -1,0 +1,57 @@
+* {
+    letter-spacing: 1px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #18256f;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+h2, article {
+    line-height: 1.3;
+}
+
+input {
+    font-size: 16px;
+    height: 23px;
+    width: 230px;
+    margin-top: 12px;
+    margin-bottom: 23px;
+    border: 1px solid #747475;
+    border-radius: 2px;
+}
+
+article {
+    font-size: 17px;
+    color: #5b5b5d;
+}
+
+section {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+li a {
+    font-size: 16px;
+    color: #fff;
+}

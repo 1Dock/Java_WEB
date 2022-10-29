@@ -1,0 +1,21 @@
+header {
+    background-color: #830010;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    align-self: stretch;
+}
+
+.BITLAB-mainLogo {
+    font-weight: 900;
+}
+
+header h1 {
+    color: #fff;
+}
+
+.navigation {
+    display: flex;
+    gap: 18px;
+}

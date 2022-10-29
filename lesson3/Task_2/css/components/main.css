@@ -1,6 +1,6 @@
 .main-news {
+    display: flex;
     background-color: #aed9db;
-    margin: 35px 0;
     padding: 20px;
     gap: 20px;
 }

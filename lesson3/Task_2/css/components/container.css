@@ -16,6 +16,10 @@ body {
     min-height: 100vh;
 }
 
+section {
+    margin: 35px 0;
+}
+
 h1 {
     font-size: 40px;
     font-weight: 700;
@@ -28,11 +32,12 @@ h2 {
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 22px;
     font-weight: 400;
+    margin: 15px 0;
 }
 
-h2, article {
+h2, article, p {
     line-height: 1.3;
 }
 
@@ -41,8 +46,8 @@ article {
     color: #5b5b5d;
 }
 
-section {
-    display: flex;
+p {
+    color: #5b5b5d;
 }
 
 a {

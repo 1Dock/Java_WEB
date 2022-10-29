@@ -1,0 +1,28 @@
+.news {
+    display: flex;
+    justify-content: space-between;
+}
+
+.other-news h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.new-item {
+    width: calc(1440px / 4 - 25px);
+}
+
+.new-item img {
+    width: calc(1440px / 4 - 25px);
+    height: 250px;
+    object-fit: cover;
+}
+
+.new-item button {
+    margin-top: 15px;
+    background-color: #84000f;
+    padding: 14px;
+    color: #fff;
+    border: 0;
+    font-size: 15px;
+}

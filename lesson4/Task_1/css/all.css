@@ -1,0 +1,8 @@
+@import "vendor/reset.css";
+@import "vendor/rubik.css";
+@import "component/container.css";
+@import "component/header.css";
+@import "component/profile.css";
+@import "component/news.css";
+@import "component/other.css";
+@import "component/messages.css";

@@ -1,0 +1,15 @@
+.FN {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 15px 0;
+}
+
+.edit {
+    font-size: 20px;
+    color: #1f7fe7;
+}
+
+.main-avatar {
+    border: 1px solid #d3d3d3;
+}

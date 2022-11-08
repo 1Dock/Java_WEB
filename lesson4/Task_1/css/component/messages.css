@@ -1,0 +1,29 @@
+.message {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 50px;
+}
+
+.message-avatar {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.remove {
+    background-color: #f10b40;
+    margin-top: 0;
+    margin-left: auto;
+}
+
+.name-and-remove {
+    display: flex;
+    align-items: center;
+}
+
+.message-main-information {
+    width: 100%;
+}
+
+.send {
+    background-color: #67747f;
+}

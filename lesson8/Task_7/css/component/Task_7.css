@@ -1,0 +1,25 @@
+table {
+    border-spacing: 20px;
+}
+
+tr {
+    text-align: left;
+}
+
+span {
+    font-weight: 700;
+}
+
+input, select {
+    border: 0;
+}
+
+table {
+    width: calc(100% - 500px);
+    margin: 20px;
+    border: 1px solid #4d4d4d;
+}
+
+.margin-left {
+    margin-left: 15px;
+}

@@ -1,0 +1,26 @@
+p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #49494b;
+}
+
+.error {
+    color: transparent;
+    margin: 5px 0 15px 0;
+}
+
+input {
+    border: 1px solid #bbbbbb;
+}
+
+.register {
+    margin: 30px;
+}
+
+button {
+    background-color: #21252a;
+    border: 0;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px 9px;
+}

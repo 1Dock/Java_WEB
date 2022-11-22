@@ -1,0 +1,19 @@
+button {
+    color: #fff;
+    font-weight: 700;
+    border: 2px solid #000;
+    background-color: #2e73b5;
+    padding: 1px 22px;
+    transition: 0.5s;
+}
+
+button:hover {
+    background-color: #4797ec;
+}
+
+.calculator {
+    display: flex;
+    margin: 30px;
+    gap: 20px;
+    align-items: center;
+}

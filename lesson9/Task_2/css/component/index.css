@@ -1,0 +1,54 @@
+.catalog {
+    margin: 30px;
+}
+
+.catalog-item {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+p {
+    margin: 10px 0;
+}
+
+button {
+    border: 0;
+    background-color: #006301;
+    color: #fff;
+    padding: 7px;
+}
+
+.remove {
+    background-color: #8a0001;
+}
+
+table {
+    margin: 17px;
+    width: 60%;
+}
+
+th, td {
+    text-align: center;
+    padding: 20px;
+}
+
+th {
+    font-weight: 700;
+    border-bottom: 1px solid #000;
+}
+
+th:nth-child(1) {
+    width: 40%;
+}
+
+th:nth-child(2) {
+    width: 40%;
+}
+
+th:nth-child(3) {
+    width: 20%;
+}

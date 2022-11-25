@@ -1,7 +1,7 @@
 const plus = document.getElementById("plus")
 const minus = document.getElementById("minus")
 let num = document.getElementById("num")
-let count = 1
+let count = 400
 num.innerHTML = count
 
 function plusNum() {

@@ -1,0 +1,21 @@
+input {
+    border: 1px solid #bebebe;
+}
+
+select {
+    width: 100%;
+}
+
+button {
+    color: #fff;
+    padding: 7px;
+    border: 0;
+}
+
+.register {
+    background-color: #3f3f3f;
+}
+
+.draft {
+    background-color: #727272;
+}
